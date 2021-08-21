@@ -1,0 +1,7 @@
+.idea
+out
+node_modules
+*.log
+yarn.lock
+dist
+.vscode/launch.json
